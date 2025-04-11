@@ -37,7 +37,7 @@ On Windows, download the installer [from GitHub](https://github.com/canonical/mu
 
 # Usage
 
-## Find available images
+## Find available images.
 ```
 $ multipass find
 Image                       Aliases           Version          Description
